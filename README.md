@@ -22,4 +22,4 @@ POTATO CHIPS 60
 APPLE JUICE 20
 CANDY 20
 
-Thansk for reading
+Thanks for reading
